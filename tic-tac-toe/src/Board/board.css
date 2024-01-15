@@ -1,0 +1,15 @@
+.board{
+   margin:auto;
+    margin-top: 200px;
+   width: 160px;
+   height: 200px;
+}
+
+
+.subBoard{
+    display: flex;
+   align-self: center;
+    gap: 10px;
+    margin: auto;
+    margin-top:5px ;
+}
